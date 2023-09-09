@@ -1,6 +1,4 @@
-# Mxpertz-Python-Flask-Login-Referral-Service
-
-## Project Name: User Referral System (Mxpertz Internship Assignment)
+## Project Name: User Referral System (Mxpertz Interview Assignment)
 
 This Flask-based web application implements a user-friendly login and signup service that includes user accounts and a referral system.
 Registered users are assigned unique referral codes, and new users can choose to enter a referral code from an existing user during registration.
